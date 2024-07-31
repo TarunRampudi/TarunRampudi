@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN,Django**
+- 💬 Ask me about 
 
 - 📫 How to reach me **rampuditarun@gmail.com**
 
