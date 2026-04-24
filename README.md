@@ -55,7 +55,6 @@
 
 ### 🛠️ Languages & Tools
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
 
