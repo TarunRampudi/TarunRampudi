@@ -53,9 +53,6 @@
 <tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></td>
-<td><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40"/></td>
-<td><img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="40"/></td>
-<td><img src="https://cdn-icons-png.flaticon.com/512/4149/4149671.png" width="40"/></td>
 </tr>
 
 <tr>
