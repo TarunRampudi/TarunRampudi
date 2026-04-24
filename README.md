@@ -11,8 +11,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Online Food Ordering System**
-- 🌱 Learning **React & Advanced Full Stack Development**
+- 🔭 Currently working on **AIML Projects**
+- 🌱 Learning **Data Engineering & Software Development**
 - 💬 Ask me about **Frontend & Backend Development**
 - 📫 Reach me at: **rampuditarun@gmail.com**
 - ⚡ Fun fact: *Build more projects, watch less Netflix*
